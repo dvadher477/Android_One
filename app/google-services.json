@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526238874357",
+    "project_id": "practiceone-883cc",
+    "storage_bucket": "practiceone-883cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526238874357:android:3daff71806ea0b1bfca3bc",
+        "android_client_info": {
+          "package_name": "com.example.practiceone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526238874357-lsj3m9hhfcgtn0b6kq22r58u8a619050.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByklBIfOd_kjOejHpDEN4Om4l-OsQex0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526238874357-lsj3m9hhfcgtn0b6kq22r58u8a619050.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
